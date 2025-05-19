@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
+| [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
