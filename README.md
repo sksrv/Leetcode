@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/sksrv/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sksrv/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/sksrv/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sksrv/Leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
