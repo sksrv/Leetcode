@@ -1,15 +1,9 @@
 class Solution {
 public:
     int addDigits(int num) {   
-        int sum=num;   
-        while(sum>9){
-            sum=0;
-            while(num!=0){
-                sum =sum+num%10;
-                num =num/10;
-            }
-            num=sum;
+        if(num==0){
+            return 0;
         }
-        return sum;
+        return 1+(num-1)%9; //this method is called digital root 
     }
 };
