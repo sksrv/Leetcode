@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sksrv/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -80,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sksrv/Leetcode/tree/master/0258-add-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
