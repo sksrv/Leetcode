@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sksrv/Leetcode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/sksrv/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sksrv/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3312-number-of-changing-keys](https://github.com/sksrv/Leetcode/tree/master/3312-number-of-changing-keys) |
 ## Enumeration
