@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sksrv/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sksrv/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
