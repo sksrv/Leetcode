@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sksrv/Leetcode/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sksrv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sksrv/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sksrv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/sksrv/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sksrv/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
