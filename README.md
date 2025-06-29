@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sksrv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/sksrv/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sksrv/Leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/sksrv/Leetcode/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/sksrv/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
