@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sksrv/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sksrv/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/sksrv/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sksrv/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sksrv/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sksrv/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
