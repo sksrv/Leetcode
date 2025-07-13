@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sksrv/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sksrv/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Geometry
 |  |
