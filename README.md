@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sksrv/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/sksrv/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/sksrv/Leetcode/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sksrv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/sksrv/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sksrv/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sksrv/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sksrv/Leetcode/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/sksrv/Leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/sksrv/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
