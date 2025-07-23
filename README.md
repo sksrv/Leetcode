@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/sksrv/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/sksrv/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/sksrv/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sksrv/Leetcode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sksrv/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
