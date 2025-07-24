@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sksrv/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/sksrv/Leetcode/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/sksrv/Leetcode/tree/master/0792-binary-search) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sksrv/Leetcode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Geometry
