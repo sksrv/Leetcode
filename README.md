@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sksrv/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sksrv/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/sksrv/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
