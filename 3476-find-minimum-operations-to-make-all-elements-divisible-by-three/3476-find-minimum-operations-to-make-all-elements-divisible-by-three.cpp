@@ -6,12 +6,9 @@ public:
             if(i%3 == 0){
                 continue;
             }
-            
+
             count ++;
             
-            // else if(i%3 == 1){
-
-            // }
         }
         return count;
     }
