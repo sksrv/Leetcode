@@ -14,7 +14,7 @@ ListNode* reverse(ListNode* head, ListNode* curr, ListNode* prev) {
         return prev;
     }
     ListNode* forward = curr->next;
-    curr->next = prev;  // <--- This was missing!
+    curr->next = prev;  
     return reverse(head, forward, curr);
 }
 
