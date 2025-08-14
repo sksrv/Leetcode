@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sksrv/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sksrv/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sksrv/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sksrv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sksrv/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sksrv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sksrv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sksrv/Leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/sksrv/Leetcode/tree/master/0495-teemo-attacking) |
 | [1806-count-of-matches-in-tournament](https://github.com/sksrv/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sksrv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sksrv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sksrv/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
