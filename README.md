@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/sksrv/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sksrv/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -278,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sksrv/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sksrv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sksrv/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3330-modify-the-matrix](https://github.com/sksrv/Leetcode/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
