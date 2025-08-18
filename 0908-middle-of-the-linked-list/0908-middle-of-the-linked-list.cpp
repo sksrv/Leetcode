@@ -12,7 +12,7 @@ class Solution {
    ListNode* getMiddle(ListNode* head){
             if(head == NULL || head->next == NULL)   return head;
 
-            if(head->next->next == NULL)    return head->next;
+       //     if(head->next->next == NULL)    return head->next;
 
             ListNode* slow = head;
             ListNode* fast = head->next;
