@@ -13,8 +13,8 @@ public:
         for(auto it:st){
             if(st.find(it-1) == st.end()){     //true when (it-1) not exist in st  "means not found in st"
                     int count = 1;
-                    int x = it;
-                while(st.find(x+1) != st.end()){
+                    int x = it+1;
+                while(st.find(x) != st.end()){
                     x = x+1;
                     count++;
                 }
