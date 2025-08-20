@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/sksrv/Leetcode/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/sksrv/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sksrv/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sksrv/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/sksrv/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sksrv/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sksrv/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sksrv/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
