@@ -1,23 +1,25 @@
 class Solution {
 public:
     vector<int> shortestToChar(string s, char c) {
-        vector<int> ans;
-        vector<int> ch;
+        int n = s.size();
+        vector<int> ans(n);
 
-        for(int i = 0;i<s.size();i++){
-            if(s[i] == c){
-                ch.push_back(i);
-            }
+        int prev = -n;
+
+        for (int i = 0; i < n; i++) {
+            if (s[i] == c)
+                prev = i;
+
+            ans[i] = i - prev;
         }
 
-        for(int i = 0;i<s.size();i++){
-            int distance = s.size();
-            for(int j = 0;j<ch.size();j++){
-                int chD = ch[j];
-                int d = abs(i - chD);
-                distance = min(distance,d);
-            }
-            ans.push_back(distance);
+        prev = 2 * n;
+
+        for (int i = n - 1; i >= 0; i--) {
+            if (s[i] == c)
+                prev = i;
+
+            ans[i] = min(ans[i], prev - i);
         }
         return ans;
     }
