@@ -8,21 +8,23 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-ListNode* reverse(ListNode* head, ListNode* curr, ListNode* prev) {
+ListNode* reverse(ListNode* head) {
     // base case
-    if (curr == NULL) {
-        return prev;
-    }
-    ListNode* forward = curr->next;
-    curr->next = prev;  
-    return reverse(head, forward, curr);
+    if (head == NULL || head->next == NULL) {
+        return head;
+    } 
+    ListNode* chotaHead = reverse(head->next);
+
+    head->next->next = head;
+    head->next = NULL;
+    
+    return chotaHead;
 }
 
 class Solution {    
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-        return reverse(head, curr, prev);  // <--- Use the returned value!
+        
+        return reverse(head); 
     }
 };
