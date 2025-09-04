@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/sksrv/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sksrv/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/sksrv/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sksrv/Leetcode/tree/master/2752-sum-multiples) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
