@@ -9,13 +9,20 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        // Using Floyd's cycle Detection
         if(head == NULL) return false;
-        unordered_map<ListNode*,bool> visit;
-        ListNode* temp = head;
-        while(temp != NULL){
-            if(visit[temp])  return true;
-            visit[temp] = true;
-            temp = temp->next;
+        
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        while(fast != NULL && fast->next != NULL){
+            
+            fast = fast->next;
+            if(fast != NULL){
+                fast = fast->next;
+            }
+            slow = slow->next;
+            if(slow == fast)  return true;
         }
         return false;
     }
