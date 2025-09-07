@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/sksrv/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sksrv/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sksrv/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sksrv/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/sksrv/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sksrv/Leetcode/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sksrv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sksrv/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/sksrv/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
