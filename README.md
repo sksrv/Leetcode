@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/sksrv/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sksrv/Leetcode/tree/master/2752-sum-multiples) |
+| [3055-maximum-odd-binary-number](https://github.com/sksrv/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sksrv/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sksrv/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/sksrv/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/sksrv/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/sksrv/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/sksrv/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sksrv/Leetcode/tree/master/3447-clear-digits) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3055-maximum-odd-binary-number](https://github.com/sksrv/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
