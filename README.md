@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sksrv/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sksrv/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/sksrv/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sksrv/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
