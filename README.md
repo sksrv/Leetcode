@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sksrv/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sksrv/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sksrv/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sksrv/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/sksrv/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sksrv/Leetcode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/sksrv/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sksrv/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sksrv/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/sksrv/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sksrv/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sksrv/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sksrv/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## Greedy
