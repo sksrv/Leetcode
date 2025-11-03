@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/sksrv/Leetcode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/sksrv/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/sksrv/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sksrv/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sksrv/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/sksrv/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
