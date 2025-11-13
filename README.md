@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/sksrv/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sksrv/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sksrv/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sksrv/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sksrv/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sksrv/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
