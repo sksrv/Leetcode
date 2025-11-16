@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/sksrv/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sksrv/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/sksrv/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/sksrv/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1833-find-the-highest-altitude](https://github.com/sksrv/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/sksrv/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Geometry
