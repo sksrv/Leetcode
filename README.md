@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/sksrv/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sksrv/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sksrv/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sksrv/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/sksrv/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sksrv/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sksrv/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sksrv/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/sksrv/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/sksrv/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sksrv/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Geometry
 |  |
 | ------- |
