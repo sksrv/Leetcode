@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sksrv/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/sksrv/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/sksrv/Leetcode/tree/master/0925-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sksrv/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sksrv/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/sksrv/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/sksrv/Leetcode/tree/master/0925-long-pressed-name) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
