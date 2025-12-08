@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/sksrv/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/sksrv/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sksrv/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/sksrv/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/sksrv/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sksrv/Leetcode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/sksrv/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/sksrv/Leetcode/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
