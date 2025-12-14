@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sksrv/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sksrv/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sksrv/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2490-circular-sentence](https://github.com/sksrv/Leetcode/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sksrv/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/sksrv/Leetcode/tree/master/2716-minimize-string-length) |
