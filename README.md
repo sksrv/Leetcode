@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sksrv/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2678-number-of-senior-citizens](https://github.com/sksrv/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2714-left-and-right-sum-differences](https://github.com/sksrv/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/sksrv/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sksrv/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2490-circular-sentence](https://github.com/sksrv/Leetcode/tree/master/2490-circular-sentence) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/sksrv/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sksrv/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/sksrv/Leetcode/tree/master/2716-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/sksrv/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
