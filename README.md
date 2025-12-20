@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/sksrv/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0932-monotonic-array](https://github.com/sksrv/Leetcode/tree/master/0932-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/sksrv/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/sksrv/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/sksrv/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/sksrv/Leetcode/tree/master/0925-long-pressed-name) |
+| [0944-delete-columns-to-make-sorted](https://github.com/sksrv/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
