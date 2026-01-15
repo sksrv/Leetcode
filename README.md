@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sksrv/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sksrv/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sksrv/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sksrv/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/sksrv/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2716-minimize-string-length](https://github.com/sksrv/Leetcode/tree/master/2716-minimize-string-length) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sksrv/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sksrv/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sksrv/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sksrv/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/sksrv/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sksrv/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
