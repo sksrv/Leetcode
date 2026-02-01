@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sksrv/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/sksrv/Leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/sksrv/Leetcode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/sksrv/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sksrv/Leetcode/tree/master/0504-base-7) |
+| [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/sksrv/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sksrv/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sksrv/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sksrv/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sksrv/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/sksrv/Leetcode/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sksrv/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/sksrv/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sksrv/Leetcode/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/sksrv/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/sksrv/Leetcode/tree/master/0696-count-binary-substrings) |
