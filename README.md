@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sksrv/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sksrv/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sksrv/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sksrv/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sksrv/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sksrv/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sksrv/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sksrv/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/sksrv/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sksrv/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sksrv/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sksrv/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sksrv/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-find-the-highest-altitude](https://github.com/sksrv/Leetcode/tree/master/1833-find-the-highest-altitude) |
