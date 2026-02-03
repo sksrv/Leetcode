@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool isTrionic(vector<int>& nums) {
+        int p = -1, q = -1;
+
+        for(int i = 0;i<nums.size()-1;i++){
+            if(nums[i] >= nums[i+1]){
+                p = i;
+                break;
+            }
+        }
+        if (p <= 0) return false;
+
+        for(int i = p;i<nums.size()-1;i++){
+            if(nums[i] <= nums[i+1]){
+                q = i;
+                break;
+            }
+        }
+        if (q == -1 || q == p) return false;
+
+        for(int i = q;i<nums.size()-1;i++){
+            if(nums[i] >= nums[i+1]){
+                return false;
+            }
+        }
+        return true;
+    }
+};
