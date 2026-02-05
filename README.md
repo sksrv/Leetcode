@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/sksrv/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/sksrv/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3379-transformed-array](https://github.com/sksrv/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sksrv/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sksrv/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sksrv/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sksrv/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/sksrv/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/sksrv/Leetcode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/sksrv/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sksrv/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
