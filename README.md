@@ -592,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sksrv/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sksrv/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
