@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sksrv/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
+| [0868-binary-gap](https://github.com/sksrv/Leetcode/tree/master/0868-binary-gap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sksrv/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sksrv/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/sksrv/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
