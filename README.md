@@ -603,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sksrv/Leetcode/tree/master/0619-biggest-single-number) |
 | [1251-average-selling-price](https://github.com/sksrv/Leetcode/tree/master/1251-average-selling-price) |
 | [1407-top-travellers](https://github.com/sksrv/Leetcode/tree/master/1407-top-travellers) |
+| [1890-the-latest-login-in-2020](https://github.com/sksrv/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
