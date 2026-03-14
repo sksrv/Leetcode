@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sksrv/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sksrv/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sksrv/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sksrv/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sksrv/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sksrv/Leetcode/tree/master/0075-sort-colors) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sksrv/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sksrv/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sksrv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sksrv/Leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
