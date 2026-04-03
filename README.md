@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/sksrv/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/sksrv/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/sksrv/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1179-reformat-department-table](https://github.com/sksrv/Leetcode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/sksrv/Leetcode/tree/master/1251-average-selling-price) |
 | [1407-top-travellers](https://github.com/sksrv/Leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/sksrv/Leetcode/tree/master/1587-bank-account-summary-ii) |
