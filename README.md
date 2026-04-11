@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/sksrv/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sksrv/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/sksrv/Leetcode/tree/master/3637-trionic-array-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sksrv/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sksrv/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sksrv/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3778-transform-array-by-parity](https://github.com/sksrv/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sksrv/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sksrv/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sksrv/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sksrv/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sksrv/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sksrv/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
