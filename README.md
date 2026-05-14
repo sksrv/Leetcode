@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/sksrv/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/sksrv/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sksrv/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/sksrv/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/sksrv/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sksrv/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sksrv/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/sksrv/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2716-minimize-string-length](https://github.com/sksrv/Leetcode/tree/master/2716-minimize-string-length) |
+| [2784-check-if-array-is-good](https://github.com/sksrv/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sksrv/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sksrv/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sksrv/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2784-check-if-array-is-good](https://github.com/sksrv/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/sksrv/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sksrv/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sksrv/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
