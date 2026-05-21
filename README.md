@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sksrv/Leetcode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/sksrv/Leetcode/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/sksrv/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/sksrv/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sksrv/Leetcode/tree/master/0595-big-countries) |
