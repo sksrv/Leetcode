@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/sksrv/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sksrv/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2485-find-the-pivot-integer](https://github.com/sksrv/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/sksrv/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2556-convert-the-temperature](https://github.com/sksrv/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/sksrv/Leetcode/tree/master/2752-sum-multiples) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sksrv/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-find-the-highest-altitude](https://github.com/sksrv/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/sksrv/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/sksrv/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sksrv/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Geometry
