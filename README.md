@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sksrv/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sksrv/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sksrv/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sksrv/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sksrv/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sksrv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sksrv/Leetcode/tree/master/0392-is-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sksrv/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
