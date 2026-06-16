@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sksrv/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sksrv/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/sksrv/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/sksrv/Leetcode/tree/master/1044-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sksrv/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sksrv/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sksrv/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sksrv/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sksrv/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sksrv/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sksrv/Leetcode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/sksrv/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sksrv/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sksrv/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
