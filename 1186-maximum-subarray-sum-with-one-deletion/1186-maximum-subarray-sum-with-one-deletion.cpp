@@ -1,22 +1,21 @@
 class Solution {
 public:
     int maximumSum(vector<int>& arr) {
-        int noDelete = arr[0];      
-        int oneDelete = 0;          
+        int noPower = arr[0];      
+        int power = 0;          
         int ans = arr[0];
 
         for (int i = 1; i < arr.size(); i++) {
-            int prevNoDelete = noDelete;
-            int prevOneDelete = oneDelete;
+            int v1 = arr[i];  //consider it as a first element 
+            int v2 = noPower + arr[i]; // noDelete 
 
-            noDelete = max(prevNoDelete + arr[i], arr[i]);
+            int v3 = power + arr[i];   //oneDelete
+            int v4 = noPower; // current element is delete
 
-            oneDelete = max(
-                prevNoDelete,           // delete current element
-                prevOneDelete + arr[i]  // deletion already used
-            );
+            noPower = max(v1,v2);
+            power = max(v3,v4);
 
-            ans = max(ans, max(noDelete, oneDelete));
+            ans = max(ans,max(noPower,power));
         }
 
         return ans;
