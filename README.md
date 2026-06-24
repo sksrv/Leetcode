@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sksrv/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sksrv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/sksrv/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/sksrv/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sksrv/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sksrv/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/sksrv/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sksrv/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sksrv/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sksrv/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sksrv/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sksrv/Leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sksrv/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sksrv/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sksrv/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sksrv/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sksrv/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sksrv/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sksrv/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sksrv/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sksrv/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sksrv/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
