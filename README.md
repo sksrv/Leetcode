@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sksrv/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sksrv/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sksrv/Leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Recursion
 |  |
 | ------- |
