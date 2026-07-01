@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sksrv/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sksrv/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sksrv/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2058-concatenation-of-array](https://github.com/sksrv/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sksrv/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/sksrv/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sksrv/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sksrv/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/sksrv/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sksrv/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sksrv/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sksrv/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sksrv/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sksrv/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/sksrv/Leetcode/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sksrv/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sksrv/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sksrv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sksrv/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sksrv/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -745,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sksrv/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sksrv/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
