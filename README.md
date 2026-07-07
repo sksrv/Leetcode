@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sksrv/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sksrv/Leetcode/tree/master/0739-daily-temperatures) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sksrv/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sksrv/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sksrv/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/sksrv/Leetcode/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/sksrv/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sksrv/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sksrv/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/sksrv/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sksrv/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/sksrv/Leetcode/tree/master/0767-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/sksrv/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sksrv/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/sksrv/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/sksrv/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sksrv/Leetcode/tree/master/0767-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sksrv/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sksrv/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sksrv/Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sksrv/Leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sksrv/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sksrv/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/sksrv/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/sksrv/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/sksrv/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sksrv/Leetcode/tree/master/0767-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sksrv/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/sksrv/Leetcode/tree/master/1448-maximum-69-number) |
