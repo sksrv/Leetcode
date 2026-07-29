@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/sksrv/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/sksrv/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/sksrv/Leetcode/tree/master/3321-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sksrv/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sksrv/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3778-transform-array-by-parity](https://github.com/sksrv/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/sksrv/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/sksrv/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/sksrv/Leetcode/tree/master/3447-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sksrv/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/sksrv/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sksrv/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sksrv/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sksrv/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sksrv/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
