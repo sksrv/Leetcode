@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2058-concatenation-of-array](https://github.com/sksrv/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sksrv/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sksrv/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2102-find-the-middle-index-in-array](https://github.com/sksrv/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sksrv/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sksrv/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sksrv/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sksrv/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sksrv/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sksrv/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sksrv/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/sksrv/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sksrv/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sksrv/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sksrv/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sksrv/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sksrv/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sksrv/Leetcode/tree/master/2502-sort-the-people) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sksrv/Leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/sksrv/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/sksrv/Leetcode/tree/master/2083-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sksrv/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sksrv/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sksrv/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sksrv/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sksrv/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sksrv/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sksrv/Leetcode/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sksrv/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
