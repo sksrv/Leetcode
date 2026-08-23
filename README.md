@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-find-the-least-frequent-digit](https://github.com/sksrv/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/sksrv/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sksrv/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4020-elevator-requests-i](https://github.com/sksrv/Leetcode/tree/master/4020-elevator-requests-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sksrv/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sksrv/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sksrv/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sksrv/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4020-elevator-requests-i](https://github.com/sksrv/Leetcode/tree/master/4020-elevator-requests-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sksrv/Leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Heap (Priority Queue)
 |  |
